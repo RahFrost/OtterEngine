@@ -13,7 +13,9 @@ This program intends to imitate the following and Display it to the user:
 
 
 
-#Setting up to run this program.
+#Setting up to run this program. (Brocode Youtube
+-Download JavaFX and move files 
+
 
 -Installing JavaFX and implementing to your project (Will be updated soon)
 
